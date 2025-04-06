@@ -1,0 +1,14 @@
+✅ Uses only Python standard libraries:
+
+os
+
+hashlib
+
+json
+
+tkinter
+
+visual studio(recommended)
+
+No need to install anything extra!
+
